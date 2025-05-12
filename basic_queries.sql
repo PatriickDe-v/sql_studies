@@ -1,0 +1,1 @@
+SELECT * FROM car_price_prediction_ LIMIT 1000;
